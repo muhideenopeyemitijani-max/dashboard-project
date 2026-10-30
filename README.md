@@ -1,3 +1,4 @@
+<img width="939" height="433" alt="Screenshot 2026-10-30 195105" src="https://github.com/user-attachments/assets/b0db4f00-e702-4524-8cda-676ac62a2b48" />
 # Pulse Dashboard – HTML & CSS Practice Kit
 
 Rebuild the dashboard in `design-reference/` using only HTML and CSS.
