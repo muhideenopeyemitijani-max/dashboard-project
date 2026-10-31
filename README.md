@@ -35,3 +35,5 @@ Rebuild the dashboard in `design-reference/` using only HTML and CSS.
 ## screenshot 
 - ![dashboard screenshot](images/Screenshot%202026-10-30%20195105.png)
 - ![dashboard screenshot](images/Screenshot%202026-10-30%20195243.png)
+
+## my dashboard project
